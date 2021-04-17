@@ -1,27 +1,8 @@
 Tachyon [![Build Status](https://travis-ci.com/linkedin/Tachyon.svg?branch=master)](https://travis-ci.com/linkedin/Tachyon)
 ========
 
-An Android library that provides a customizable calendar day view.
+An Android library that provides a customizable Horizontalcalendar day view.
 
-[Click here for the iOS version.](https://github.com/linkedin/Tachyon-iOS)
-
-![Alt text](screenshot.png "Tachyon Sample")
-
-Getting Started
----------------
-
-Grab via Maven:
-```xml
-<dependency>
-  <groupId>com.linkedin.android.tachyon</groupId>
-  <artifactId>tachyon</artifactId>
-  <version>1.0.2</version>
-</dependency>
-```
-or Gradle:
-```groovy
-implementation 'com.linkedin.android.tachyon:tachyon:1.0.2'
-```
 
 Overview
 --------
